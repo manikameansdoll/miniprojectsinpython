@@ -16,7 +16,7 @@ This is a mini interactive Python story where the player takes the role of a ser
 - Interactive storytelling and branching narrative
 
 ## How to Run
-1. Download the `vaelren_chapter1.py` file.  
+1. Download the `xuesong_tea_interaction.py` file.  
 2. Ensure you have **Python 3.x** installed.  
 3. Open a terminal or command prompt in the file directory.  
 4. Run the script with:
